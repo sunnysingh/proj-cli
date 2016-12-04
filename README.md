@@ -38,6 +38,8 @@ Also, if you have related projects like `my-app` and `my-app-api`, you can omit 
 
 Creates the `my-app-v2` folder in your projects folder, and immediately goes to it.
 
+You can omit the prefix here as well. For example, if you're in the `my-app` folder, you can run `proj new -v2` to create the `my-app-v2` folder.
+
 ## Compatibility
 
 A Unix-like environment is required (Mac or Linux).
